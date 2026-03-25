@@ -3,8 +3,11 @@
 **Real-time water shader and underwater visual effect development in Unreal Engine 5.4**  
 A project focused on **Technical Art**, **computer graphics**, **shader/material development**, **real-time rendering**, and **visual problem solving**.
 
-<!-- IMAGE PLACEHOLDER: Hero image / final result -->
-![Project Preview](./images/placeholder-hero.png)
+#### Water shader in a small setup
+![Project Preview](./images/hero2.png)
+
+#### Water shader in a large scene
+![Project Preview Large](./images/hero_large.png)
 
 ## Overview
 
@@ -17,6 +20,7 @@ It was developed with a strong focus on both **art direction** and **technical i
 
 - **Gerstner Waves** for procedural water surface motion
 - Layered **Normal Maps** for small-scale ripple detail
+
 - **Depth-based transparency** for shallow/deep water appearance
 - **Fresnel** control for view-dependent surface response
 - Procedural **foam masking** around intersecting geometry

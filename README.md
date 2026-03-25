@@ -6,9 +6,6 @@ A project focused on **Technical Art**, **computer graphics**, **shader/material
 #### Water shader in a small setup
 ![Project Preview](./images/hero2.png)
 
-#### Water shader in a large scene
-![Project Preview Large](./images/hero_large.png)
-
 ## Overview
 
 This project explores how to build a visually convincing water system in **Unreal Engine 5.4** for real-time environments.  
@@ -77,19 +74,13 @@ During debugging, I found that default settings such as **Render in Depth Pass**
 As the shader became more feature-rich, instruction cost increased.  
 I used **Vertex Interpolator**-based optimization in parts of the material graph to reduce some **Base Pass** cost and improve efficiency.
 
-<!-- IMAGE PLACEHOLDER: Debug comparisons / before-after -->
-![Debug Process](./images/placeholder-debug.png)
-
 ## Media
 
-<!-- IMAGE PLACEHOLDER: Final beauty shot -->
-![Final Shot](./images/placeholder-final.png)
-
-<!-- IMAGE PLACEHOLDER: Material graph -->
-![Material Graph](./images/placeholder-graph.png)
+#### Water shader in a large scene
+![Project Preview Large](./images/hero_large.png)
 
 ## Author
 
 **Shiyi Gou**  
 M.Sc. Human-Computer Interaction, LMU Munich  
-Interested in **Technical Art**, **real-time graphics**, **XR development**, and **interactive visual systems**
+B.Sc. Informatics plus Computer Linguistics

@@ -18,18 +18,24 @@ It was developed with a strong focus on both **art direction** and **technical i
 
 ## Key Features
 
-- **Gerstner Waves** for procedural water surface motion
-- Layered **Normal Maps** for small-scale ripple detail
-
-- **Depth-based transparency** for shallow/deep water appearance
-- **Fresnel** control for view-dependent surface response
-- Procedural **foam masking** around intersecting geometry
-- Animated **caustics** for underwater light projection
 - **Refraction** for surface distortion
-- **Post Process** underwater effect using **Custom Depth / Stencil**
 
-<!-- IMAGE PLACEHOLDER: Feature breakdown / close-up shots -->
-![Feature Breakdown](./images/placeholder-features.png)
+- **Gerstner Waves** for procedural water surface motion
+![Gerstner Waves](./images/gerstner_waves.png)
+- Layered **Normal Maps** for small-scale ripple detail
+![Water Ripple](./images/water_ripple.png)
+- **Depth-based transparency** for shallow/deep water appearance
+![Scene Depth](./images/scenedepth.png)
+- **Fresnel** control for view-dependent surface response
+![Fresnel](./images/fresnel.PNG)
+- Procedural **foam masking** around intersecting geometry
+![Foam](./images/foam.png)
+- Animated **caustics** for underwater light projection
+![Caustics](./images/caustics.png)
+- **Post Process** underwater effect using **Custom Depth / Stencil**
+![Underwate Haze](./images/underwater_haze.png)
+![waterline](./images/waterline.png)
+
 
 ## Technical Artist Focus
 

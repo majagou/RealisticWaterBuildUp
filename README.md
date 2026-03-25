@@ -70,25 +70,6 @@ I used **Vertex Interpolator**-based optimization in parts of the material graph
 <!-- IMAGE PLACEHOLDER: Debug comparisons / before-after -->
 ![Debug Process](./images/placeholder-debug.png)
 
-## What This Project Demonstrates
-
-- Strong understanding of **real-time material workflows**
-- Ability to build and refine **shader-driven visual systems**
-- Experience with **technical debugging** in Unreal Engine
-- Awareness of **performance constraints** and **scalability**
-- Ability to translate visual targets into production-oriented implementation
-
-## Roles This Project Supports
-
-This project is especially relevant for:
-
-- **Technical Artist**
-- **Shader Artist**
-- **Material Artist**
-- **Real-Time VFX Artist**
-- **Unreal Engine Developer**
-- **Rendering / Graphics Programmer**
-
 ## Media
 
 <!-- IMAGE PLACEHOLDER: Final beauty shot -->
